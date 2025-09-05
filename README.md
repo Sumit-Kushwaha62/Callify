@@ -101,13 +101,17 @@ npm install
 ## Screenshots  
 
 ### 🔑 Authentication Page  
-![SCREENSHOTS](https://via.placeholder.com/800x400.png?text=Authentication+Page)  
+![SCREENSHOTS](https://github.com/Sumit-Kushwaha62/Callify/blob/main/frontend/public/Screenshot1.png?raw=true)<br>
+
+![SCREENSHOTS](https://github.com/Sumit-Kushwaha62/Callify/blob/main/frontend/public/Screenshot3.png?raw=true)<br>
+
+![SCREENSHOTS](https://github.com/Sumit-Kushwaha62/Callify/blob/main/frontend/public/Screenshot2.png?raw=true)  
 
 
 
 ---
 
 ## Contact  
-📧 Email: [yourname@example.com](mailto:yourname@example.com)  
-💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+📧 Email: [Click Here!](sumitkushwaha99375@gmail.com)  
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/sumit-kushwaha-83b608357/)  
  
