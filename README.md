@@ -76,20 +76,38 @@ video-calling-app/
 
 ```
 
-⚙️ Installation & Setup
-1️⃣ Clone Repository
+## Installation & Setup
+### Clone Repository
+
+```
+git clone https://github.com/Sumit-Kushwaha62/Callify.git
+cd Callify
+```
 
 
-git clone https://github.com/your-username/video-calling-app.git
-cd video-calling-app
+### Backend Setup
 
-
-
-2️⃣ Backend Setup
-
-
+```
 cd backend
 npm install
+```
+
+
+## 🔗 Live Demo  
+[![Live Demo](https://img.shields.io/badge/Live%20View-Click%20Here-brightgreen?style=for-the-badge)](https://soul-connect.onrender.com)  
+
+---
+
+## Screenshots  
+
+### 🔑 Authentication Page  
+![SCREENSHOTS](https://via.placeholder.com/800x400.png?text=Authentication+Page)  
 
 
 
+---
+
+## Contact  
+📧 Email: [yourname@example.com](mailto:yourname@example.com)  
+💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+ 
