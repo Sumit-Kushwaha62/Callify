@@ -91,7 +91,11 @@ cd Callify
 cd backend
 npm install
 ```
-
+### Frontend Setup
+```
+cd frontend
+npm install
+```
 
 ## 🔗 Live Demo  
 [Live Demo](https://callify-frontend02.onrender.com/)  
