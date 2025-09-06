@@ -94,13 +94,13 @@ npm install
 
 
 ## 🔗 Live Demo  
-[![Live Demo](https://img.shields.io/badge/Live%20View-Click%20Here-brightgreen?style=for-the-badge)](https://soul-connect.onrender.com)  
+[Live Demo](https://callify-frontend02.onrender.com/)  
 
 ---
 
-## Screenshots  
 
-### 🔑 Authentication Page  
+
+### Screenshots 
 ![SCREENSHOTS](https://github.com/Sumit-Kushwaha62/Callify/blob/main/frontend/public/Screenshot1.png?raw=true)<br>
 
 ![SCREENSHOTS](https://github.com/Sumit-Kushwaha62/Callify/blob/main/frontend/public/Screenshot3.png?raw=true)<br>
